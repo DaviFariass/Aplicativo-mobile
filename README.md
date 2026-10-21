@@ -82,19 +82,19 @@ Conecta-Campus/
 
 ### 1. Login
 
-![Tela Login](img1.png)
+![Tela Login](aplicativo-mobile/img1.png)
 
 ### 2. Home
 
-![Tela Home](img2.png)
+![Tela Home](aplicativo-mobile/img2.png)
 
 ### 3. Sobre
 
-![Tela Sobre](img3.png)
+![Tela Sobre](aplicativo-mobile/img3.png)
 
 ### 4. Contato
 
-![Tela Contato](img4.png)
+![Tela Contato](aplicativo-mobile/img4.png)
 
 ## Observação
 
