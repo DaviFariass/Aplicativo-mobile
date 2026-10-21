@@ -4,8 +4,8 @@ Aplicativo mobile institucional desenvolvido como atividade acadêmica para prat
 
 ## Identificação
 
-- **Aluno:** `[Informe seu nome completo antes da entrega]`
-- **Aplicativo:** Conecta Campus
+- **Aluno:** `Davi Silva Santo Farias`
+- **Aplicativo:** Instituto Davi
 - **Finalidade:** atividade acadêmica de navegação e Toolbar para dispositivos móveis.
 
 ## Funcionalidades
@@ -80,25 +80,21 @@ Conecta-Campus/
     └── styles.js
 ```
 
-## Capturas de tela
-
-Adicione as quatro capturas de tela na pasta `screenshots/`, na raiz do projeto, usando os nomes abaixo. Este README pressupõe arquivos PNG. Se suas imagens estiverem em JPG/JPEG, altere a extensão nos caminhos a seguir para corresponder aos arquivos reais.
-
 ### 1. Login
 
-![Tela Login](screenshots/img1.png)
+![Tela Login](img1.png)
 
 ### 2. Home
 
-![Tela Home](screenshots/img2.png)
+![Tela Home](img2.png)
 
 ### 3. Sobre
 
-![Tela Sobre](screenshots/img3.png)
+![Tela Sobre](img3.png)
 
 ### 4. Contato
 
-![Tela Contato](screenshots/img4.png)
+![Tela Contato](img4.png)
 
 ## Observação
 
