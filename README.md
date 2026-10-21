@@ -1,4 +1,4 @@
-# Conecta Campus
+# App Instituto Davi
 
 Aplicativo mobile institucional desenvolvido como atividade acadêmica para praticar criação de telas, validação de login, navegação entre páginas, uso de Toolbar, componentização e estilização com `StyleSheet`.
 
